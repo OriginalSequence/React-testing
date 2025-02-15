@@ -1,8 +1,7 @@
-# React + Vite
+# React Testing
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Follow this link to set up: https://www.robinwieruch.de/vitest-react-testing-library/
 
-Currently, two official plugins are available:
+then run: ```npm install @testing-library/user-event --save-dev```
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Resource: https://www.theodinproject.com/lessons/node-path-react-new-introduction-to-react-testing
